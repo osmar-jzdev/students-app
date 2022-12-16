@@ -13,6 +13,13 @@
     <string name="displayStudents">Mostrar estudiantes</string>
     <string name="searchStudent">Buscar estudiante</string>
     <string name="deleteStudent">Eliminar estudiante</string>
-
+    <string name="cuenta">Cuenta/ID</string>
+    <string name="nombre">Nombre</string>
+    <string name="edad">Edad</string>
+    <string name="numMaterias">Número de materias</string>
+    <string name="idMateria">ID Materia</string>
+    <string name="nombreMateria">Materia</string>
+    <string name="creditosMateria">Créditos</string>
+    <string name="agregarEstudiante">Agregar</string>
 
 </resources>
