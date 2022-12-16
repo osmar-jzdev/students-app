@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Students APP</string>
+    <string name="abrir">Abrir</string>
+    <string name="cerrar">Cerrar</string>
+    <string name="buscar">buscar</string>
+    <string name="dato_xml">Dato xml</string>
+    <string name="datos_json">Mostrar estudiantes JSON</string>
+    <string name="error">No se encuentra la información revice su conexion</string>
+    <string name="json_id">JSON id</string>
+    <string name="json_post">JSON POST</string>
+    <string name="json_delete">Eliminar estudiante</string>
+    <string name="addStudent">Agregar nuevo estudiante</string>
+    <string name="displayStudents">Mostrar estudiantes</string>
+    <string name="searchStudent">Buscar estudiante</string>
+    <string name="deleteStudent">Eliminar estudiante</string>
+
+
+</resources>
