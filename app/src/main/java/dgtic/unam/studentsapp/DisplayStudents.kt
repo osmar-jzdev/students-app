@@ -12,7 +12,6 @@ class DisplayStudents : AppCompatActivity() {
 
     private lateinit var binding: ActivityDisplayStudentsBinding
     private lateinit var volleyAPI: VolleyAPI
-    private val springRestApp = ""
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -29,7 +28,7 @@ class DisplayStudents : AppCompatActivity() {
     }
 
     fun onClick(view: View) {
-        val urlJSON = "http://"+springRestApp+"/estudiantesJSON"
+        val urlJSON = "http://"+Constants.IP_LOCAL_BACKEND_APPLICATION+"/estudiantesJSON"
         var cadena = ""
 
         var stringRequest = object: JsonArrayRequest(

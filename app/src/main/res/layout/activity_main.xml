@@ -15,6 +15,7 @@
         android:layout_height="wrap_content"
         android:contentDescription="@string/app_name"
         app:srcCompat="@drawable/logo_main" />
+
     <include
         layout="@layout/bar_main"
         android:layout_width="match_parent"

@@ -14,7 +14,6 @@ class SearchStudent : AppCompatActivity() {
 
     private lateinit var binding: ActivitySearchStudentBinding
     private lateinit var volleyAPI: VolleyAPI
-    private val springRestApp = ""
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -31,7 +30,7 @@ class SearchStudent : AppCompatActivity() {
     }
 
     fun onClick(view: View) {
-        val urlJSON = "http://" + springRestApp + "/id/" + binding.searchText.text.toString()
+        val urlJSON = "http://" + Constants.IP_LOCAL_BACKEND_APPLICATION + "/id/" + binding.searchText.text.toString()
         val jsonRequest = object : JsonObjectRequest(
             Method.GET,
             urlJSON,

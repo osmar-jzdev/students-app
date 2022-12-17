@@ -9,6 +9,7 @@
         <entry key="app/src/main/res/drawable/ic_menu.xml" value="0.1785" />
         <entry key="app/src/main/res/drawable/logo2.xml" value="0.1785" />
         <entry key="app/src/main/res/layout/activity_add_student.xml" value="0.23125" />
+        <entry key="app/src/main/res/layout/activity_add_subject.xml" value="0.14792299898682879" />
         <entry key="app/src/main/res/layout/activity_delete_student.xml" value="0.23125" />
         <entry key="app/src/main/res/layout/activity_display_students.xml" value="0.23125" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.2890625" />

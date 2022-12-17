@@ -21,5 +21,7 @@
     <string name="nombreMateria">Materia</string>
     <string name="creditosMateria">Créditos</string>
     <string name="agregarEstudiante">Agregar</string>
+    <string name="errorEmptyMsg">This can be null</string>
+    <string name="pleaseFillEverything">Please fill everything</string>
 
 </resources>
